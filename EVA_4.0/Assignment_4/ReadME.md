@@ -4,10 +4,10 @@ The MNIST dataset is an acronym that stands for the Modified National Institute 
 
 ## Constraints
 This code written under following constraints 
-1)99.4% validation accuracy
-2)Less than 20k Parameters
-3)Less than 20 Epochs
-4)No fully connected layer
+<p>1)99.4% validation accuracy
+<p>2)Less than 20k Parameters
+<p>3)Less than 20 Epochs
+<p>4)No fully connected layer
 
 ## requirements
 python 3.6
