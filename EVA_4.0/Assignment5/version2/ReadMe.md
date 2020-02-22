@@ -2,7 +2,7 @@
 Target:
 
 Decrease the number of parameters (with some drop in accuracy is accepted)
-No fancy stuff
+<p>No fancy stuff
 <p>Results:
 Parameters: 193k
 Best Train Accuracy: 99.42
