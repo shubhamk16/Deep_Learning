@@ -18,4 +18,4 @@ truck
 
 The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
 
-In this code, our task is to generate 80% accuracy within 1 million parameters
+In this code, our task is to generate 80% accuracy within 1 million parameters. we done this with help of dilated and depthwise convolution layer.
