@@ -22,5 +22,5 @@ An ensemble of these residual nets achieves 3.57% error on the ImageNet test set
 **About Assignment solution**
 
 Total params: 11,173,962
-Best train accuracy - 100 %
-Best test accuracy - 87 %
+<p>Best train accuracy - 100 %
+<p>Best test accuracy - 87 %
