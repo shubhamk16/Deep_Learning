@@ -18,4 +18,5 @@
 ## Epoch vs. Accuracy plot
 ![github-small](https://github.com/BirenderPanwar/EVA4_Phase1/blob/master/session10/images/model_history.png)
 
-## Gradcam ![github-small](https://github.com/BirenderPanwar/EVA4_Phase1/blob/master/session10/images/gradcam_result_details.png)
+## Gradcam output
+![github-small](https://github.com/BirenderPanwar/EVA4_Phase1/blob/master/session10/images/gradcam_result_details.png)
