@@ -7,6 +7,7 @@
 
 # Sample images of albumentations augmentation
 ### Data Augmentation technique: Horizontalflip, CoarseDropout
+![github-small](https://github.com/BirenderPanwar/EVA4_Phase1/blob/master/session10/images/albumentations_images.png)
 
-
+# Gradcam
 ![github-small](https://github.com/BirenderPanwar/EVA4_Phase1/blob/master/session10/images/gradcam_result_details.png)
