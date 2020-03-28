@@ -9,4 +9,4 @@
 ###Data Augmentation technique: Horizontalflip, CoarseDropout
 
 
-!(https://drive.google.com/drive/u/0/folders/1VaXU1KfFND7RD1DgYu2r6qtFelRzY7bP)
+![github-small](https://drive.google.com/drive/u/0/folders/1VaXU1KfFND7RD1DgYu2r6qtFelRzY7bP)
