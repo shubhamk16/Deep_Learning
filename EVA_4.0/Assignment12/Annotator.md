@@ -2,7 +2,7 @@
 
 <p>'Dog-57.jpg36157':                                 
   <p>{'file_attributes': {  },
-  <p>'filename': 'Dog-57.jpg',                                      <== File name
+  <p>'filename': 'Dog-57.jpg',                                      **<== File name**
   <p>'regions': [{'region_attributes': {'type': '1'},
     <p>'shape_attributes': {'height': 261,                          <== height of bounding box
      <p>'name': 'rect',                                             <== shape of the annotation
